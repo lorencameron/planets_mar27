@@ -13,3 +13,5 @@ else:
   print("Colour is irrelevant.")
 
 print("moons: ", moons)
+print("temperature: ", temperature)
+
